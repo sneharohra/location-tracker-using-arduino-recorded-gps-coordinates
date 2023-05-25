@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<Placemark>
+	<description>Red PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ff00eaff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-circle.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.62051,43.100465,177.5</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Red PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ff42b37c</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-circle.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.463687,43.142312,148.7</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Red PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ff00eaff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-circle.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.437743,43.138372,157.7</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Red PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ff42b37c</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-circle.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-76.146222,42.714983,346.6</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Red PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ff42b37c</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-circle.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-76.117428,43.03234,222.8</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Red PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ff42b37c</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-circle.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.437757,43.138233,183.3</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Red PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ff00eaff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-circle.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.43042,43.094975,305.6</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Red PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.430462,43.094965,152.4</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Red PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-82.972712,40.139815,276.4</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Red PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ff42b37c</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-circle.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-82.97271,40.139735,146.5</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Red PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ff42b37c</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-circle.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-82.972575,40.139575,153.4</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Red PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ff42b37c</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-circle.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-82.97264,40.13966,152.8</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Red PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ff42b37c</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-circle.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-75.642335,35.987462,148.4</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Red PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ff42b37c</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-circle.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.665885,43.09263,167.8</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Red PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ff42b37c</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-circle.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.679875,43.08576,165.2</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Red PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ff42b37c</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-circle.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-78.140552,39.216658,210.2</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Red PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ff42b37c</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-circle.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-76.564822,40.131445,137.8</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Red PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ff42b37c</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-circle.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-76.563487,40.130797,124.6</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Red PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ff42b37c</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-circle.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-76.563445,40.130743,124.3</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Red PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ff42b37c</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-circle.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-76.562872,40.130887,182.4</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Red PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ff42b37c</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-circle.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.437945,43.13858,224.4</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Red PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ff42b37c</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-circle.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.437925,43.138533,108.7</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Red PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ff42b37c</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-circle.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.437805,43.138667,97.1</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Red PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.430405,43.094948,149.3</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Red PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ff42b37c</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-circle.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-82.972623,40.140373,281.9</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Red PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ff42b37c</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-circle.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-75.642375,35.987437,185.9</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Red PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ff42b37c</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-circle.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.437743,43.138477,151.6</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Red PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ff42b37c</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-circle.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.501928,43.153743,151.4</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Red PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ff00eaff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-circle.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-78.139302,39.217133,227.0</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Red PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ff42b37c</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-circle.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-78.140558,39.216612,207.8</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Red PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ff42b37c</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-circle.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-78.140143,39.216635,229.5</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Red PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ff42b37c</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-circle.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-78.136383,39.217885,234.7</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Red PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ff42b37c</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-circle.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.520383,43.137293,131.2</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description>Red PIN for A Stop</description>
+	<Style>
+		<IconStyle>
+			<color>ff42b37c</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-circle.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Point>
+		<coordinates>-77.505743,43.15367,229.8</coordinates>
+	</Point>
+</Placemark>
+</Document>
+</kml>
